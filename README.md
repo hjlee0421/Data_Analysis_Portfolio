@@ -6,7 +6,7 @@
 - Conclusion
 - Action Insight
 
-## 앱 방문 분석
+## 앱 방문 데이터 분석
 
 1. 개요
 
